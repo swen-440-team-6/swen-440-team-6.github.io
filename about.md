@@ -5,7 +5,7 @@ subtitle: Who are we?
 permalink: /about/
 ---
 
-This is a blog Team 6 of SWEN-440, Software Requirements & Architecture at RIT.
+This is a blog for Team 6 of SWEN-440, Software Requirements & Architecture at RIT.
 
 Our team consists of five members:
 
