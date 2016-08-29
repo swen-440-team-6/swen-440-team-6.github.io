@@ -88,6 +88,10 @@ strong {
     display: block;
 }
 
+.logo:before {
+    content: <i class='fa fa-group'></i>;
+}
+
 .plat {
   margin: 0 15px;
   height: 150px;
