@@ -1,14 +1,14 @@
-- slug: grant
-  name: Grant Gadomski
-
 - slug: austin
   name: Austin Cook
 
-- slug: ben
-  name: Ben Meyers
+- slug: grant
+  name: Grant Gadomski
 
 - slug: joshua
   name: Joshua James
+
+- slug: ben
+  name: Ben Meyers
 
 - slug: asma
   name: Asma Sattar
