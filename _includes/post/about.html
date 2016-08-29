@@ -1,0 +1,8 @@
+<div class="about">
+    <div class="about__devider">*****</div>
+    <div class="about__text">
+        {% assign author = page.categories[0] %}
+        Written by <strong> {% if author.name %} {{ author.name }} {% else %} {{ site.author.fullname }} {% endif %}</strong>
+        on <strong>{{ page.date | date: "%d %B %Y" }}</strong>
+    </div>
+</div>
