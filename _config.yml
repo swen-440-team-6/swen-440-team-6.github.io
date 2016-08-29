@@ -1,14 +1,14 @@
 # Site settings
-title: The Phat Plats
+title: Team 6 Blog
 description: >
-  The Phat Plats team offical SWEN 444 project blog.
+  SWEN-440
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://phat-plats.github.io" # the base hostname & protocol for your site
+url: "http://swen-440-team-6.github.io" # the base hostname & protocol for your site
 
 author:
-  fullname: The Phat Plats
-  github: phat-plats
+  fullname: SWEN-440-Team-6
+  github: swen-440-team-6
   # disqus: your_disqus_username
 
 # google_analytics: 'UA-XXXXXXXX-X'
