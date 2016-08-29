@@ -3,24 +3,11 @@
       <div class="navigation">
           <a href="/" class="logo">{{ site.title }}</a>
           <ul class="menu">
-              <li class="menu__entry"><a href="{{ '/about' | prepend: site.baseurl }}"><i class="fa fa-github"></i>&nbsp;About</a></li>
-              <li class="menu__entry"><a href="{{ '/' | prepend: site.baseurl }}"><i class="fa fa-github"></i>&nbsp;Posts</a></li>
+              <li class="menu__entry"><a href="{{ '/about' | prepend: site.baseurl }}"><i class="fa fa-info-circle"></i>&nbsp;About</a></li>
+              <li class="menu__entry"><a href="{{ '/' | prepend: site.baseurl }}"><i class="fa fa-clipboard"></i>&nbsp;Posts</a></li>
               <li class="menu__entry"><a href="https://github.com/swen-440-team-6/"><i class="fa fa-github"></i>&nbsp;Code</a></li>
-              <li class="menu__entry"><a href="https://swen440team6.slack.com/"><i class="fa fa-github"></i>&nbsp;Slack</a></li>
+              <li class="menu__entry"><a href="https://swen440team6.slack.com/"><i class="fa fa-slack"></i>&nbsp;Slack</a></li>
           </ul>
       </div>
     </div>
-    <ul class="social-links">
-        {% if site.author.github %}
-            <a href="https://github.com/{{ site.author.github }}" class="social-links__entry" target="_blank">
-                <i class="fa fa-github"></i>
-            </a>
-        {% endif %}
-
-        {% if site.author.twitter %}
-            <a href="https://twitter.com/{{ site.author.twitter }}" class="social-links__entry" target="_blank">
-                <i class="fa fa-twitter"></i>
-            </a>
-        {% endif %}
-    </ul>
 </header>
