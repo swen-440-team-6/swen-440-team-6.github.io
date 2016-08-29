@@ -95,7 +95,6 @@ strong {
 
 .menu {
     color: $cloudy;
-    width: 80%;
     font-size: 18px;
     margin:0px;
     margin-top: 6px;
@@ -114,6 +113,10 @@ strong {
 
 .menu__entry a {
     font-weight: 400;
+}
+
+.menu__entry a:hover {
+    color: blue;
 }
 
 .social-links {
