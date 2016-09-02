@@ -1,17 +1,28 @@
 ---
 layout: post
-title:  "Week 1 Status"
+title:  "Week 1 &amp; 2 Status"
 subtitle: "Project Startup"
 date:   2016-08-29 09:30:00
 author: Ben Meyers
 categories: [ben]
 ---
 
-## Initial Project Idea
-For our project, we would like to design a replacement for the current automatic group creation system used by many professors, primarilly in the Software Engineering department. The current system has limited functionality, which often results in undesirable groupings.
+## Project Sponsor Information
+Name:<space><space>Brock Wagehoft
+Email:<space><space>bew1127@rit.edu
+Occupation: Fraternity Chairmen of Community Service
 
-## Potential Project Sponsor
-Since we foresee this application being used primarily by SE professors, Asma has scheduled a meeting with Daniel Krutz.
+## Summary of Project Description Received from Sponsor
+Mr. Wagehoft is the community service Chairman within his fraternity organization. Members of the fraternity must provide a summary of their servce activities - including hours and a contact for verification - to Mr. Wagehoft. He has found it difficult to keep track of all of this information for every member of his organization within a spreadsheet. He would like a web-based, mobile-friendly application that can help him keep track of his organization's community service hours.
+
+## Desired Functionality
+* A web-based, mobile-friendly application <b>OR</b> a fully mobile application.
+* Account Management:
+  * Master Accounts for organization Chairmen to manage their organization's members and to view aggregate data of their member's activity.
+  * User Accounts for that allow for easily providing dates, times, locations, event descriptions, start and end times, and contact information for their activities.
+* Organization Information Pages:
+  * Compare your organization's community service activities with other organizations.
+* Easily exportable data.
 
 ## Blog Creation
-Ben created the blog, which is hosted on GitHub at [https://swen-440-team-6.github.io/](https://swen-440-team-6.github.io/). It is simple and to-the-point.
+The blog is hosted on GitHub at [https://swen-440-team-6.github.io/](https://swen-440-team-6.github.io/).
