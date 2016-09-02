@@ -15,3 +15,5 @@ Our team consists of five members:
 - Benjamin Meyers
 - Asma Sattar
 
+For an overview of our project, please see our first [blog post](https://swen-440-team-6.github.io/ben/2016/08/29/Week-1-Status.html).
+
