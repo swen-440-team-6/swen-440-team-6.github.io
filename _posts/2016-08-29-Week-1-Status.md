@@ -8,8 +8,10 @@ categories: [ben]
 ---
 
 ## Project Sponsor Information
-Name:<space><space>Brock Wagehoft
-Email:<space><space>bew1127@rit.edu
+Name: Brock Wagehoft
+
+Email: bew1127@rit.edu
+
 Occupation: Fraternity Chairmen of Community Service
 
 ## Summary of Project Description Received from Sponsor
