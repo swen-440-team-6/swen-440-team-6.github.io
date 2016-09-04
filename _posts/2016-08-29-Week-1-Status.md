@@ -3,12 +3,12 @@ layout: post
 title:  "Week 1 Status Report"
 subtitle: "Project Startup"
 date:   2016-08-29 09:30:00
-author: Ben Meyers
+author: Ben
 categories: [ben]
 ---
 
 ## Project Sponsor Information
-Name: Brock Wagehoft
+Name: B. Wagehoft
 
 Email: bew1127@rit.edu
 
