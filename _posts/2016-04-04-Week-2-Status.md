@@ -9,7 +9,7 @@ categories: [asma]
 
 ## Tasks/features accomplished for the week
 
-> #### Case Study - part 1: (Hours: ~1hr)
+#### Case Study - part 1: (Hours: ~1hr)
 1. Case Study Interview Questions.
 2. Functional requirements.
 3. non-functional requirements.
