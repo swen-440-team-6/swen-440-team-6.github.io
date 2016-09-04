@@ -12,7 +12,7 @@ categories: [asma]
 #### Case Study - part 1: (Hours: ~1hr)
 1. Case Study Interview Questions.
 2. Functional requirements.
-3. non-functional requirements.
+3. Non-functional requirements.
 
 #### Finding project sponsor and identifying project: (Hours: ~2hr) 
 * [Sponsor & project info](https://swen-440-team-6.github.io/ben/2016/08/29/Week-1-Status.html).
