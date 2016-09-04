@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week 1 &amp; 2 Status"
+title:  "Week 1 Status Report"
 subtitle: "Project Startup"
 date:   2016-08-29 09:30:00
 author: Ben Meyers
