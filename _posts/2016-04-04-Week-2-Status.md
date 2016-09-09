@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Weekly Status Report"
+title:  "Week 2 Status Report"
 subtitle: "Task/features"
 date:   2016-09-04 12:43:00
 author: Asma
