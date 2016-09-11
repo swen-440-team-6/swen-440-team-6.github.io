@@ -39,7 +39,7 @@ permalink: /minutes/
     <td class="tg-6k2t">Worked on Vision and Scope Project document.</td>
   </tr>
   <tr>
-    <td class="tg-yw4l">Sat, Sep 9, 2016<br></td>
+    <td class="tg-yw4l">Sat, Sep 10, 2016<br></td>
     <td class="tg-6k2t">3:35 PM - 6:00 PM (2h 25m) & 7:30 PM - 9:51 PM (2h 21m)</td>
     <td class="tg-yw4l">Asma</td>
     <td class="tg-6k2t">Worked on Case Study: Part 2 document./td>
