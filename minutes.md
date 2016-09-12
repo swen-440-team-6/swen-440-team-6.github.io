@@ -49,4 +49,18 @@ permalink: /minutes/
     <td class="tg-6k2t">Case Study</td>
     <td class="tg-yw4l">Worked on Case Study: Part 2 document.</td>
   </tr>
+  <tr>
+    <td class="tg-yw4l">09-10<br></td>
+    <td class="tg-6k2t">1:00PM - 2:00PM</td>
+    <td class="tg-yw4l">Grant</td>
+    <td class="tg-6k2t">Project</td>
+    <td class="tg-yw4l">Worked on Vision and Scope Project document.</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">09-10<br></td>
+    <td class="tg-6k2t">2:00PM - 4:00PM</td>
+    <td class="tg-yw4l">Grant</td>
+    <td class="tg-6k2t">Case Study</td>
+    <td class="tg-yw4l">Worked on the Case Study: Part 2 document.</td>
+  </tr>
 </table>
