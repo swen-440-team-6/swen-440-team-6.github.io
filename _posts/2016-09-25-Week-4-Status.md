@@ -9,16 +9,16 @@ categories: [joshua]
 
 ## Case Study Status
 
-  *No new updates
+* No new updates
 
 ## Project Status
 
 1. Vision and Scope Document
-  *Updated document based on grading rubric
+  * Updated document based on grading rubric
   
 2. SRS
-  *Filled out required sections of SRS
-  *Created and filled out Use Case scenario document
+  * Filled out required sections of SRS
+  * Created and filled out Use Case scenario document
 
 ## Important Notes
 
