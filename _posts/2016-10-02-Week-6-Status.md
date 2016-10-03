@@ -20,14 +20,14 @@ categories: [ben]
 <table style="border-bottom: 1px solid black; border-top: 1px solid black; border-left: 1px solid black; border-right: 1px solid black;">
 <tbody>
  <tr>
-   <th>Team Member</th>
-   <th>Project Plan</th>
-   <th>Analysis Model</th>
-   <th>Use Case Model</th>
-   <th>Final SRS</th>
-   <th>Blog</th>
-   <th>Presentation</th>
-   <th>Submission</th>
+   <th style="border-bottom: 1px solid black; border-top: 1px solid black; border-left: 1px solid black; border-right: 1px solid black;">Team Member</th>
+   <th style="border-bottom: 1px solid black; border-top: 1px solid black; border-left: 1px solid black; border-right: 1px solid black;">Project Plan</th>
+   <th style="border-bottom: 1px solid black; border-top: 1px solid black; border-left: 1px solid black; border-right: 1px solid black;">Analysis Model</th>
+   <th style="border-bottom: 1px solid black; border-top: 1px solid black; border-left: 1px solid black; border-right: 1px solid black;">Use Case Model</th>
+   <th style="border-bottom: 1px solid black; border-top: 1px solid black; border-left: 1px solid black; border-right: 1px solid black;">Final SRS</th>
+   <th style="border-bottom: 1px solid black; border-top: 1px solid black; border-left: 1px solid black; border-right: 1px solid black;">Blog</th>
+   <th style="border-bottom: 1px solid black; border-top: 1px solid black; border-left: 1px solid black; border-right: 1px solid black;">Presentation</th>
+   <th style="border-bottom: 1px solid black; border-top: 1px solid black; border-left: 1px solid black; border-right: 1px solid black;">Submission</th>
  </tr>
  <tr>
    <td valign="top" style="border-bottom: 1px solid black; border-top: 1px solid black; border-left: 1px solid black; border-right: 1px solid black;">Asma</td>
@@ -102,7 +102,7 @@ categories: [ben]
      </ul>
    </td>
    <td valign="top" style="border-bottom: 1px solid black; border-top: 1px solid black; border-left: 1px solid black; border-right: 1px solid black;"></td>
-   <td valign="top">
+   <td valign="top" style="border-bottom: 1px solid black; border-top: 1px solid black; border-left: 1px solid black; border-right: 1px solid black;">
      <ul>
        <li>Ensure Requirements are Met</li>
      </ul>
