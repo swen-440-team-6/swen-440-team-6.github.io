@@ -220,6 +220,10 @@ categories: [ben]
 
 <table>
   <tr>
+    <th>Date</th>
+    <th>Deliverable</th>
+  </tr>
+  <tr>
     <td>10/05</td>
     <td>80% of all Documents Complete</td>
   </tr>
