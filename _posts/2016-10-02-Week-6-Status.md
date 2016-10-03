@@ -220,7 +220,7 @@ categories: [ben]
 
 <table>
   <tr>
-    <th>Date</th>
+    <th>Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
     <th>Deliverable</th>
   </tr>
   <tr>
