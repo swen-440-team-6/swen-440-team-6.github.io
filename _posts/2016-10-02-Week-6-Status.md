@@ -221,7 +221,7 @@ categories: [ben]
 <table>
   <tr>
     <th>Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
-    <th>Deliverable</th>
+    <th align="left">Deliverable</th>
   </tr>
   <tr>
     <td>10/05</td>
