@@ -216,9 +216,32 @@ categories: [ben]
 </tbody>
 </table>
 
-## Important Notes
+## Schedule
 
-N/A
+<table>
+  <tr>
+    <td>10/05</td>
+    <td>80% of all Documents Complete</td>
+  </tr>
+  <tr>
+    <td>10/07</td>
+    <td>'Code Review' of all Documents</td>
+  </tr>
+  <tr>
+    <td>10/08</td>
+    <td>100% of all Documents Complete</td>
+  </tr>
+  <tr>
+    <td>10/09</td>
+    <td>Submission of all Documents</td>
+  </tr>
+  <tr>
+    <td>10/11</td>
+    <td>In-Class Presentation*</td>
+  </tr>
+</table>
+
+\* Asma will not be available to present on 10/12.
 
 ## Concerns
 
