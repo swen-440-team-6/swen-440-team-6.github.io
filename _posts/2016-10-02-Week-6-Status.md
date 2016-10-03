@@ -17,7 +17,7 @@ categories: [ben]
 2. Going Forward
   * We met on Friday (09/30) to discuss what went wrong and how we can work to mitigate the risks that led to our poor grade. Below is a list of whom is responsible for what aspects of the final draft.
   
-<table>
+<table style="border-bottom: 1px solid black; border-top: 1px solid black; border-left: 1px solid black; border-right: 1px solid black;">
 <tbody>
  <tr>
    <th>Team Member</th>
@@ -30,8 +30,8 @@ categories: [ben]
    <th>Submission</th>
  </tr>
  <tr>
-   <td valign="top">Asma</td>
-   <td valign="top">
+   <td valign="top" style="border-bottom: 1px solid black; border-top: 1px solid black; border-left: 1px solid black; border-right: 1px solid black;">Asma</td>
+   <td valign="top" style="border-bottom: 1px solid black; border-top: 1px solid black; border-left: 1px solid black; border-right: 1px solid black;">
      <ul>
        <li>Update Risks</li>
        <li>Update Risk Mitigation</li>
@@ -39,7 +39,7 @@ categories: [ben]
        <li>Update Defect Log</li>
      </ul>
    </td>
-   <td valign="top">
+   <td valign="top" style="border-bottom: 1px solid black; border-top: 1px solid black; border-left: 1px solid black; border-right: 1px solid black;">
      <ul>
        <li>Object models for 30% (maximum of 3) of architecturally significant use cases</li>
        <li>Sufficient detail traceable to use case flow detail</li>
@@ -50,8 +50,8 @@ categories: [ben]
        <li>Labeled messages</li>
      </ul>
    </td>
-   <td valign="top"></td>
-   <td valign="top">
+   <td valign="top" style="border-bottom: 1px solid black; border-top: 1px solid black; border-left: 1px solid black; border-right: 1px solid black;"></td>
+   <td valign="top" style="border-bottom: 1px solid black; border-top: 1px solid black; border-left: 1px solid black; border-right: 1px solid black;">
      <ul>
        <li>Introductory materials (Context, scope, motivation, etc.)</li>
        <li>Assumptions and dependencies, as needed</li>
@@ -60,27 +60,27 @@ categories: [ben]
        <li>Supporting materials (Glossary, appendices, table-of-contents, references, etc.)</li>
      </ul>
    </td>
-   <td valign="top"></td>
+   <td valign="top" style="border-bottom: 1px solid black; border-top: 1px solid black; border-left: 1px solid black; border-right: 1px solid black;"></td>
    <td valign="top">
      <ul>
        <li>Setup Presentation</li>
      </ul>
    </td>
-   <td valign="top"></td>
+   <td valign="top" style="border-bottom: 1px solid black; border-top: 1px solid black; border-left: 1px solid black; border-right: 1px solid black;"></td>
  </tr>
  <tr>
-   <td valign="top">Austin</td>
-   <td valign="top">
+   <td valign="top" style="border-bottom: 1px solid black; border-top: 1px solid black; border-left: 1px solid black; border-right: 1px solid black;">Austin</td>
+   <td valign="top" style="border-bottom: 1px solid black; border-top: 1px solid black; border-left: 1px solid black; border-right: 1px solid black;">
      <ul>
        <li>Ensure Requirements are Met</li>
      </ul>
    </td>
-   <td valign="top">
+   <td valign="top" style="border-bottom: 1px solid black; border-top: 1px solid black; border-left: 1px solid black; border-right: 1px solid black;">
      <ul>
        <li>Ensure Requirements are Met</li>
      </ul>
    </td>
-   <td valign="top">
+   <td valign="top" style="border-bottom: 1px solid black; border-top: 1px solid black; border-left: 1px solid black; border-right: 1px solid black;">
      <ul>
        <li>Ensure Requirements are Met</li>
        <li>Ensure 90% of all Use Cases are Complete</li>
@@ -91,7 +91,7 @@ categories: [ben]
        <li>Update Previous Use Cases</li>
      </ul>
    </td>
-   <td valign="top">
+   <td valign="top" style="border-bottom: 1px solid black; border-top: 1px solid black; border-left: 1px solid black; border-right: 1px solid black;">
      <ul>
        <li>Ensure Requirements are Met</li>
        <li>Introductory materials (Context, scope, motivation, etc.)</li>
@@ -101,22 +101,22 @@ categories: [ben]
        <li>Supporting materials (Glossary, appendices, table-of-contents, references, etc.)</li>
      </ul>
    </td>
-   <td valign="top"></td>
+   <td valign="top" style="border-bottom: 1px solid black; border-top: 1px solid black; border-left: 1px solid black; border-right: 1px solid black;"></td>
    <td valign="top">
      <ul>
        <li>Ensure Requirements are Met</li>
      </ul>
    </td>
-   <td valign="top">
+   <td valign="top" style="border-bottom: 1px solid black; border-top: 1px solid black; border-left: 1px solid black; border-right: 1px solid black;">
      <ul>
        <li>Oversee Submission</li>
      </ul>
    </td>
  </tr>
  <tr>
-   <td valign="top">Grant</td>
-   <td valign="top"></td>
-   <td valign="top">
+   <td valign="top" style="border-bottom: 1px solid black; border-top: 1px solid black; border-left: 1px solid black; border-right: 1px solid black;">Grant</td>
+   <td valign="top" style="border-bottom: 1px solid black; border-top: 1px solid black; border-left: 1px solid black; border-right: 1px solid black;"></td>
+   <td valign="top" style="border-bottom: 1px solid black; border-top: 1px solid black; border-left: 1px solid black; border-right: 1px solid black;">
      <ul>
        <li>Object models for 30% (maximum of 3) of architecturally significant use cases</li>
        <li>Sufficient detail traceable to use case flow detail</li>
@@ -127,8 +127,8 @@ categories: [ben]
        <li>Labeled messages</li>
      </ul>
    </td>
-   <td valign="top"></td>
-   <td valign="top">
+   <td valign="top" style="border-bottom: 1px solid black; border-top: 1px solid black; border-left: 1px solid black; border-right: 1px solid black;"></td>
+   <td valign="top" style="border-bottom: 1px solid black; border-top: 1px solid black; border-left: 1px solid black; border-right: 1px solid black;">
      <ul>
        <li>Introductory materials (Context, scope, motivation, etc.)</li>
        <li>Assumptions and dependencies, as needed</li>
@@ -137,15 +137,15 @@ categories: [ben]
        <li>Supporting materials (Glossary, appendices, table-of-contents, references, etc.)</li>
      </ul>
    </td>
-   <td valign="top"></td>
-   <td valign="top"></td>
-   <td valign="top"></td>
+   <td valign="top" style="border-bottom: 1px solid black; border-top: 1px solid black; border-left: 1px solid black; border-right: 1px solid black;"></td>
+   <td valign="top" style="border-bottom: 1px solid black; border-top: 1px solid black; border-left: 1px solid black; border-right: 1px solid black;"></td>
+   <td valign="top" style="border-bottom: 1px solid black; border-top: 1px solid black; border-left: 1px solid black; border-right: 1px solid black;"></td>
  </tr>
  <tr>
-   <td valign="top">Josh</td>
-   <td valign="top"></td>
-   <td valign="top"></td>
-   <td valign="top">
+   <td valign="top" style="border-bottom: 1px solid black; border-top: 1px solid black; border-left: 1px solid black; border-right: 1px solid black;">Josh</td>
+   <td valign="top" style="border-bottom: 1px solid black; border-top: 1px solid black; border-left: 1px solid black; border-right: 1px solid black;"></td>
+   <td valign="top" style="border-bottom: 1px solid black; border-top: 1px solid black; border-left: 1px solid black; border-right: 1px solid black;"></td>
+   <td valign="top" style="border-bottom: 1px solid black; border-top: 1px solid black; border-left: 1px solid black; border-right: 1px solid black;">
      <ul>
        <li>Ensure 90% of all Use Cases are Complete</li>
        <li>Brief actor and use case descriptions</li>
@@ -155,7 +155,7 @@ categories: [ben]
        <li>Update Previous Use Cases</li>
      </ul>
    </td>
-   <td valign="top">
+   <td valign="top" style="border-bottom: 1px solid black; border-top: 1px solid black; border-left: 1px solid black; border-right: 1px solid black;">
      <ul>
        <li>Introductory materials (Context, scope, motivation, etc.)</li>
        <li>Assumptions and dependencies, as needed</li>
@@ -164,28 +164,28 @@ categories: [ben]
        <li>Supporting materials (Glossary, appendices, table-of-contents, references, etc.)</li>
      </ul>
    </td>
-   <td valign="top"></td>
-   <td valign="top"></td>
-   <td valign="top"></td>
+   <td valign="top" style="border-bottom: 1px solid black; border-top: 1px solid black; border-left: 1px solid black; border-right: 1px solid black;"></td>
+   <td valign="top" style="border-bottom: 1px solid black; border-top: 1px solid black; border-left: 1px solid black; border-right: 1px solid black;"></td>
+   <td valign="top" style="border-bottom: 1px solid black; border-top: 1px solid black; border-left: 1px solid black; border-right: 1px solid black;"></td>
  </tr>
  <tr>
-   <td valign="top">Ben</td>
-   <td valign="top">
+   <td valign="top" style="border-bottom: 1px solid black; border-top: 1px solid black; border-left: 1px solid black; border-right: 1px solid black;">Ben</td>
+   <td valign="top" style="border-bottom: 1px solid black; border-top: 1px solid black; border-left: 1px solid black; border-right: 1px solid black;">
      <ul>
        <li>Ensure Consistent Formatting</li>
      </ul>
    </td>
-   <td valign="top">
+   <td valign="top" style="border-bottom: 1px solid black; border-top: 1px solid black; border-left: 1px solid black; border-right: 1px solid black;">
      <ul>
        <li>Ensure Consistent Formatting</li>
      </ul>
    </td>
-   <td valign="top">
+   <td valign="top" style="border-bottom: 1px solid black; border-top: 1px solid black; border-left: 1px solid black; border-right: 1px solid black;">
      <ul>
        <li>Ensure Consistent Formatting</li>
      </ul>
    </td>
-   <td valign="top">
+   <td valign="top" style="border-bottom: 1px solid black; border-top: 1px solid black; border-left: 1px solid black; border-right: 1px solid black;">
      <ul>
        <li>Ensure Consistent Formatting</li>
        <li>Introductory materials (Context, scope, motivation, etc.)</li>
@@ -195,19 +195,19 @@ categories: [ben]
        <li>Supporting materials (Glossary, appendices, table-of-contents, references, etc.)</li>
      </ul>
    </td>
-   <td valign="top">
+   <td valign="top" style="border-bottom: 1px solid black; border-top: 1px solid black; border-left: 1px solid black; border-right: 1px solid black;">
      <ul>
        <li>Write Blog Posts</li>
        <li>Ensure Content is Sufficient</li>
        <li>Ensure Blog Site is Up-To-Date</li>
      </ul>
    </td>
-   <td valign="top">
+   <td valign="top" style="border-bottom: 1px solid black; border-top: 1px solid black; border-left: 1px solid black; border-right: 1px solid black;">
      <ul>
        <li>Ensure Consistent Formatting</li>
      </ul>
    </td>
-   <td valign="top">
+   <td valign="top" style="border-bottom: 1px solid black; border-top: 1px solid black; border-left: 1px solid black; border-right: 1px solid black;">
      <ul>
        <li>Ensure Consistent Formatting</li>
      </ul>
