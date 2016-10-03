@@ -52,18 +52,46 @@ categories: [ben]
       <td></td>
       <td></td>
       <td></td>
-      <td>Setup Present</td>
+      <td>
+        <ul>
+          <li>Setup Presentation</li>
+        </ul>
+      </td>
       <td></td>
     </tr>
     <tr>
       <td>Austin</td>
+      <td>
+        <ul>
+          <li>Ensure Requirements are Met</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Ensure Requirements are Met</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Ensure Requirements are Met</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Ensure Requirements are Met</li>
+        </ul>
+      </td>
       <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>
+        <ul>
+          <li>Ensure Requirements are Met</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Oversee Submission</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>Grant</td>
@@ -94,17 +122,47 @@ categories: [ben]
       <td></td>
       <td></td>
       <td></td>
-      </td>
     </tr>
     <tr>
       <td>Ben</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>
+        <ul>
+          <li>Ensure Consistent Formatting</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Ensure Consistent Formatting</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Ensure Consistent Formatting</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Ensure Consistent Formatting</li>
+          <li>Update Section 6.0</li>
+          <li>Update Appendices</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Write Blog Posts</li>
+          <li>Ensure Content is Sufficient</li>
+          <li>Ensure Blog Site is Up-To-Date</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Ensure Consistent Formatting</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Ensure Consistent Formatting</li>
+        </ul>
       </td>
     </tr>
   </tbody>
